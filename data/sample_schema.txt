@@ -1,1 +1,10 @@
+Dataset: Olist Brazilian E-commerce Dataset https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
+Tables used:
+- orders: order_id, order_status, order_purchase_timestamp
+- order_items: order_id, product_id, price
+- payments: order_id, payment_value
+- products: product_id, product_category_name
+- customers: customer_id
+
+Raw data not uploaded due to size.
